@@ -1,14 +1,23 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - torvalds
+  # - alshedivat
+  - arnavailable
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  # - alshedivat/al-folio
+  # - jekyll/jekyll
+  # - twbs/bootstrap
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
+  - arnavailable/llm-interview
+  - arnavailable/large-language-models
+  - arnavailable/operations-analytics
+  - arnavailable/motor-vehicle-crashes
+  - arnavailable/optimisation
+  - arnavailable/data-management
+  - arnavailable/time-series
+  
